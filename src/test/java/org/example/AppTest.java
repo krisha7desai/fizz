@@ -41,6 +41,7 @@ public class AppTest
     public void testFizzBuzz() {
         assertEquals("1", fb(1));
         assertEquals("Fizz", fb(3));
+        assertEquals("Buzz", fb(5));
 
 
 
