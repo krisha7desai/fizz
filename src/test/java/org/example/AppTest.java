@@ -42,6 +42,7 @@ public class AppTest
         assertEquals("1", fb(1));
         assertEquals("Fizz", fb(3));
         assertEquals("Buzz", fb(5));
+        assertEquals("FizzBuzz", fb(15));
 
 
 
